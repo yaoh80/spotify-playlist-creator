@@ -1,0 +1,3 @@
+([('SpotifyPlaylistCreator',
+   '/Users/kimurashun/SysDev/python_projects/spotify-playlist-creator/dist/SpotifyPlaylistCreator',
+   'EXECUTABLE')],)
